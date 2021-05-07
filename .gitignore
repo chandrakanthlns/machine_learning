@@ -1,0 +1,16 @@
+*.log
+*/logs/*.log
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Editors
+.vscode/
+.idea/
+
+__pycache__/
